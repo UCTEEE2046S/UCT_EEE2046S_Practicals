@@ -45,7 +45,7 @@ Now you have a working board, you can move onto updating the firmware and downlo
 
 ## Test program
 1. Download STM32CubeProgrammer here (https://www.st.com/en/development-tools/stm32cubeprog.html) and run the program
-2. Usually it would install the drivers you need to use the ST-Link (the debugger) upon installation or first time use, but if not, proceed to [Debugger Drivers (Windows)](https://github.com/Agi23/EEE2046Pracs/tree/main/Debugger%20Drivers%20(Windows)) and follow the readme before returning to these steps.
+2. Usually it would install the drivers you need to use the ST-Link (the debugger) upon installation or first time use, but if not, proceed to [Debugger Drivers (Windows)](https://github.com/UCTEEE2046S/UCT_EEE2046S_Practicals/tree/main/Debugger%20Drivers%20(Windows)) and follow the readme before returning to these steps.
 3. Connect your board to your laptop using the USB cable
 4. Click on the green "Connect" button in the top right corner to connect to the device (you may need to upgrade the firmware)
 5. Click on "Open file" and select demo_2015.elf
