@@ -5,7 +5,7 @@
 2. Video Guide for setting up VS Code for C-Programming: https://clipchamp.com/watch/WZsdb849MVL
 
 ### Download and extract MinGW
-1. Download MinGW: https://nuwen.net/files/mingw/mingw-18.0-without-git.exe
+1. Download MinGW: https://nuwen.net/files/mingw/mingw-19.0.exe
 2. Once downloaded, you should see a file like below. Double click on the icon and set the extraction location to C:\
 <img width="789" alt="mingwExtraction" src="https://user-images.githubusercontent.com/15980541/228197825-61c7aac9-1e05-4845-afdc-9e07c4948141.PNG">
 
