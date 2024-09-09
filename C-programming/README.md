@@ -2,7 +2,7 @@
 
 ## Windows C Setup
 1. This tutorial is based on the video: https://youtu.be/oaebkkOP2Qg
-2. Video Guide for setting up VS Code for C-Programming: https://clipchamp.com/watch/WZsdb849MVL
+2. Video Guide for setting up VS Code for C-Programming: Can be found on Amathuba in Practical 3
 
 ### Download and extract MinGW
 1. Download MinGW: https://nuwen.net/files/mingw/mingw-19.0.exe
