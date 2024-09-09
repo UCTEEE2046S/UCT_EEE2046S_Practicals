@@ -11,9 +11,10 @@ Navigate to the Extensions tab in VScode and install the stm32-for-vscode extens
 **Note:** throughout this process, if you get a pop-up window in the bottom right corner asking you to install reccomended build tools - install them
 
 ## Download the template provided in this repository 
-1. This template contains all the required files needed to start programming your STM32. 
-2. In Core > Src there is a file called main.c - this is where you will be coding.
-3. The code in the main.c file displays a "Hello World! :)" onto your LCD screen.
+1. To download the template, you will need to either download the entire repo or clone the entire repo
+2. This template contains all the required files needed to start programming your STM32. 
+3. In Core > Src there is a file called main.c - this is where you will be coding.
+4. The code in the main.c file displays a "Hello World! :)" onto your LCD screen.
 
 ## Building and flashing your demo program
 1. Once you have made changes to your code you will need to save everything and navigate to the STM32 tab in VSCode
