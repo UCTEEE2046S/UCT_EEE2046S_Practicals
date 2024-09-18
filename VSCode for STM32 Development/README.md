@@ -1,8 +1,11 @@
 # VSCode for STM32 Development
-Prerequisite: VSCode installation + STM32 update and demo
+Prerequisite: 
+- VSCode installation
+- STM32CubeProgrammer downloaded onto the PC that will be used to program
 
 # Method 1
 Video guide availible at: Amathuba under Practical 4
+**Note:** this method does not work on Mac OS devices and you will need to use Method 2
         
 ## Get stm32-for-vscode extension
 Navigate to the Extensions tab in VScode and install the stm32-for-vscode extension
