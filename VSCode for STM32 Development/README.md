@@ -5,6 +5,7 @@ Prerequisite:
 
 # Method 1
 Video guide availible at: Amathuba under Practical 4
+
 **Note:** this method does not work on Mac OS devices and you will need to use Method 2
         
 ## Get stm32-for-vscode extension
