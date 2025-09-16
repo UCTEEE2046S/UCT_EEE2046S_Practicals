@@ -2,7 +2,7 @@
 
 ## Windows C Setup
 1. This tutorial is based on the video: https://youtu.be/oaebkkOP2Qg
-2. Video Guide for setting up VS Code for C-Programming: Can be found on Amathuba in Practical 3
+2. Video Guide for setting up VS Code for C-Programming: https://www.youtube.com/watch?v=zG_y_JO42Gc
 
 ### Download and extract MinGW
 1. Download MinGW: https://nuwen.net/files/mingw/mingw-19.0.exe
@@ -76,4 +76,4 @@ gcc hello.c -o hello
 
 ## C-programming with the STM32
 
-TODO
+[Programming the STM32 in VS Code](https://github.com/UCTEEE2046S/UCT_EEE2046S_Practicals/blob/main/VSCode%20for%20STM32%20Development/README.md)
