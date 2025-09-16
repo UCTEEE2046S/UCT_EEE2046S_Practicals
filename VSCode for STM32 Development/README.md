@@ -6,7 +6,7 @@ Prerequisite:
 First attempt Method 1 below, and if, at any point, you experience issues, move to Method 2. Method 1 is easier to install, but can present more issues during installation.
 
 # Method 1
-Video guide availible at: www.youtube.com/watch?v=_jt3rf3F7mg
+Video guide availible at: [Installing stm-32-for-vscode on VSCode](https://youtu.be/_jt3rf3F7mg?si=u_sil4GarOMNESst)
 
 **Note:** this method does not work on Mac OS devices and you will need to use Method 2
         
@@ -30,7 +30,7 @@ Navigate to the Extensions tab in VScode and install the stm32-for-vscode extens
 4. You should see "Hello World! :)" onto your LCD screen.
 
 # Method 2 (not as lightweight, but more reliable)
-Video guide availible at: https://www.youtube.com/watch?v=_jt3rf3F7mg
+Video guide availible at: [Installing PlatformIO on VSCode](https://youtu.be/n-_z2OFj0LA?si=837ICKfUeuPFD827)
 
 
 You are now ready to start programming your board with your own code :) 
