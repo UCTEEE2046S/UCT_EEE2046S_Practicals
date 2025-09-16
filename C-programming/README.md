@@ -1,8 +1,8 @@
 # EEE2046Pracs
 
 ## Windows C Setup
-1. This tutorial is based on the video: https://youtu.be/oaebkkOP2Qg
-2. Video Guide for setting up VS Code for C-Programming: https://www.youtube.com/watch?v=zG_y_JO42Gc
+1. Video Guide for installing VS Code: [VS Code Installation Guide](https://youtu.be/TBCrShqSbog?si=uNUPthQiZVEcT7n1)
+2. Video Guide for setting up VS Code for C-Programming: [Installing C on VS Code](https://youtu.be/zG_y_JO42Gc?si=UoX8G7isDWQB3T12)
 
 ### Download and extract MinGW
 1. Download MinGW: https://nuwen.net/files/mingw/mingw-19.0.exe
@@ -71,8 +71,11 @@ gcc hello.c -o hello
 ```
 ./hello
 ```
+
 4. Your output should be as follows:
 <img width="473" alt="VScodeTerminalC" src="https://user-images.githubusercontent.com/15980541/228214933-07913e79-d6a1-4200-9279-f1494ff2860c.PNG">
+
+*This tutorial is based on the video: https://youtu.be/oaebkkOP2Qg*
 
 ## C-programming with the STM32
 
